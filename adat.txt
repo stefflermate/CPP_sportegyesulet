@@ -1,0 +1,4 @@
+Foci Csapat;11;foci;1;Janos;
+Kosar Csapat;20;kosar;2;33
+Uj kezi;8;Kezi;3;120
+Kezi Csapat;8;Kezi;3;120
